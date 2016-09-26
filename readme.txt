@@ -5,3 +5,4 @@ Git branch test.
 Git branch sev.
 Git branch se2.
 Creating a new branch is quick and simple.
+Git add merge.
